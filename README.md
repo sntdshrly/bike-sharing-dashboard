@@ -5,3 +5,5 @@
 ## Repository & Documentation
 
 You may open this repository on your browser: https://bike-sharing-dashboard.streamlit.app/
+
+## Thank You
